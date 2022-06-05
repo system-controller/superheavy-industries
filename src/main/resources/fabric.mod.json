@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "shi",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Superheavy Industries",
+  "description": "Super-scale industrial operations!",
   "authors": [
-    "Me!"
+    "system-controller"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://ikalon.com/superheavy-industries/",
+    "sources": "https://github.com/system-controller/superheavy-industries"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/shi/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.ikalon.shi.SHI"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "shi.mixins.json"
   ],
 
   "depends": {

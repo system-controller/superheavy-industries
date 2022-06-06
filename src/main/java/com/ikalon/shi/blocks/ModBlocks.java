@@ -15,6 +15,34 @@ public class ModBlocks {
             registerBlock("iridium_ore",
                     new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
 
+    public static final Block DEEPSLATE_IRIDIUM_ORE =
+            registerBlock("deepslate_iridium_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block OSMIUM_ORE =
+            registerBlock("osmium_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block DEEPSLATE_OSMIUM_ORE =
+            registerBlock("deepslate_osmium_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block PLATINUM_ORE =
+            registerBlock("platinum_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block DEEPSLATE_PLATINUM_ORE =
+            registerBlock("deepslate_platinum_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block RHENIUM_ORE =
+            registerBlock("rhenium_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
+    public static final Block DEEPSLATE_RHENIUM_ORE =
+            registerBlock("deepslate_rhenium_ore",
+                    new Block(FabricBlockSettings.copy(Blocks.DIAMOND_ORE)));
+
 
     private static Block registerBlock(String name, Block block) {
         Registry.register(Registry.ITEM,

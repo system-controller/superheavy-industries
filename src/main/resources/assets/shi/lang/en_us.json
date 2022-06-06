@@ -1,5 +1,19 @@
 {
+  "block.shi.deepslate_iridium_ore": "Deepslate Iridium Ore",
+  "block.shi.deepslate_osmium_ore": "Deepslate Osmium Ore",
+  "block.shi.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "block.shi.deepslate_rhenium_ore": "Deepslate Rhenium Ore",
   "block.shi.iridium_ore": "Iridium Ore",
+  "block.shi.osmium_ore": "Osmium Ore",
+  "block.shi.platinum_ore": "Platinum Ore",
+  "block.shi.rhenium_ore": "Rhenium Ore",
+  "item.shi.deepslate_iridium_ore": "Deepslate Iridium Ore",
+  "item.shi.deepslate_osmium_ore": "Deepslate Osmium Ore",
+  "item.shi.deepslate_platinum_ore": "Deepslate Platinum Ore",
+  "item.shi.deepslate_rhenium_ore": "Deepslate Rhenium Ore",
   "item.shi.iridium_ore": "Iridium Ore",
+  "item.shi.osmium_ore": "Osmium Ore",
+  "item.shi.platinum_ore": "Platinum Ore",
+  "item.shi.rhenium_ore": "Rhenium Ore",
   "itemGroup.shi.shi_itemgroup": "Superheavy-Industries"
 }

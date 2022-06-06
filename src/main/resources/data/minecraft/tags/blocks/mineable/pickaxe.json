@@ -1,6 +1,13 @@
 {
   "replace": false,
   "values": [
-    "shi:iridium_ore"
+    "shi:iridium_ore",
+    "shi:deepslate_iridium_ore",
+    "shi:osmium_ore",
+    "shi:deepslate_osmium_ore",
+    "shi:platinum_ore",
+    "shi:deepslate_platinum_ore",
+    "shi:rhenium_ore",
+    "shi:deepslate_rhenium_ore"
   ]
 }
